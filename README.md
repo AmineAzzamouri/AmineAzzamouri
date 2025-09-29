@@ -50,11 +50,13 @@
 
 ###
 
-###  
+###
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AmineAzzamouri/AmineAzzamouri/output/pacman-contribution-graph.svg">
+<br clear="both">
 
-###  
+<img src="https://raw.githubusercontent.com/AmineAzzamouri/AmineAzzamouri/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ###
